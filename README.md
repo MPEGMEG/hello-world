@@ -1,3 +1,3 @@
 # hello-world
 Learning R
-A MPH student earning a data science certificate.
+I am a MPH student earning a data science certificate.
